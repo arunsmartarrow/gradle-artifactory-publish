@@ -1,0 +1,300 @@
+{
+  "properties" : {
+    "java.vendor" : "Oracle Corporation",
+    "buildInfo.env.USER" : "root",
+    "sun.java.launcher" : "SUN_STANDARD",
+    "buildInfo.env.QT4_IM_MODULE" : "xim",
+    "buildInfo.env.QT_LINUX_ACCESSIBILITY_ALWAYS_ON" : "1",
+    "sun.management.compiler" : "HotSpot 64-Bit Tiered Compilers",
+    "buildInfo.env.JOB" : "gnome-session",
+    "buildInfo.env.XDG_DATA_DIRS" : "/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop",
+    "os.name" : "Linux",
+    "buildInfo.env.PATH" : "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/java-1.8.0-openjdk-amd64/bin:/opt/gradle-3.3/bin/",
+    "buildInfo.env.LOGNAME" : "root",
+    "sun.boot.class.path" : "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes",
+    "buildInfo.env.GDMSESSION" : "gnome",
+    "sun.desktop" : "gnome",
+    "java.vm.specification.vendor" : "Oracle Corporation",
+    "buildInfo.env.XDG_SEAT" : "seat0",
+    "java.runtime.version" : "1.8.0_121-8u121-b13-0ubuntu1.16.04.2-b13",
+    "buildInfo.env.GNOME_KEYRING_CONTROL" : "",
+    "buildInfo.env.UPSTART_JOB" : "gnome-settings-daemon",
+    "buildInfo.env.XDG_SESSION_ID" : "1",
+    "user.name" : "root",
+    "buildInfo.env.LS_COLORS" : "rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:",
+    "buildInfo.env.JRE_HOME" : "/usr/lib/jvm/java-1.8.0-openjdk-amd64",
+    "user.language" : "en",
+    "buildInfo.env.WINDOWPATH" : "2",
+    "sun.boot.library.path" : "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64",
+    "buildInfo.env.XMODIFIERS" : "@im=ibus",
+    "buildInfo.env.CATALINA_HOME" : "/opt/tomcat",
+    "buildInfo.env.USERNAME" : "arun",
+    "buildInfo.env.INSTANCE" : "GNOME",
+    "buildInfo.env.GRADLE_HOME" : "/opt/gradle-3.3/bin/",
+    "buildInfo.env.GNOME_KEYRING_PID" : "",
+    "java.version" : "1.8.0_121",
+    "user.timezone" : "Asia/Kolkata",
+    "sun.arch.data.model" : "64",
+    "buildInfo.env.MANDATORY_PATH" : "/usr/share/gconf/gnome.mandatory.path",
+    "java.endorsed.dirs" : "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/endorsed",
+    "sun.cpu.isalist" : "",
+    "sun.jnu.encoding" : "UTF-8",
+    "file.encoding.pkg" : "sun.io",
+    "buildInfo.env.TERM" : "xterm-256color",
+    "file.separator" : "/",
+    "java.specification.name" : "Java Platform API Specification",
+    "java.class.version" : "52.0",
+    "buildInfo.env.LESSOPEN" : "| /usr/bin/lesspipe %s",
+    "user.country" : "IN",
+    "buildInfo.env.UPSTART_INSTANCE" : "",
+    "java.home" : "/usr/lib/jvm/java-8-openjdk-amd64/jre",
+    "buildInfo.env.SESSIONTYPE" : "gnome-session",
+    "java.vm.info" : "mixed mode",
+    "os.version" : "4.4.0-59-generic",
+    "buildInfo.env.XDG_SESSION_TYPE" : "x11",
+    "buildInfo.env._" : "/opt/gradle-3.3/bin/gradle",
+    "buildInfo.env.GPG_AGENT_INFO" : "/home/arun/.gnupg/S.gpg-agent:0:1",
+    "path.separator" : ":",
+    "buildInfo.env.XDG_RUNTIME_DIR" : "/run/user/1000",
+    "java.vm.version" : "25.121-b13",
+    "buildInfo.env.DBUS_SESSION_BUS_ADDRESS" : "unix:abstract=/tmp/dbus-xpDkNweaoj",
+    "buildInfo.env.LESSCLOSE" : "/usr/bin/lesspipe %s %s",
+    "buildInfo.env.test.adding.dynVar" : "Mon Jan 30 22:55:31 IST 2017",
+    "user.variant" : "",
+    "buildInfo.env.VTE_VERSION" : "4205",
+    "java.awt.printerjob" : "sun.print.PSPrinterJob",
+    "buildInfo.env.UPSTART_EVENTS" : "started starting",
+    "sun.io.unicode.encoding" : "UnicodeLittle",
+    "buildInfo.env.GNOME_DESKTOP_SESSION_ID" : "this-is-deprecated",
+    "awt.toolkit" : "sun.awt.X11.XToolkit",
+    "buildInfo.env.SHELL" : "/bin/bash",
+    "buildInfo.env.XAUTHORITY" : "/run/user/1000/gdm/Xauthority",
+    "buildInfo.env.PWD" : "/home/arun/Downloads/project-examples-master/gradle-examples/3/gradle-example-publish",
+    "buildInfo.env.HOME" : "/root",
+    "user.home" : "/root",
+    "java.specification.vendor" : "Oracle Corporation",
+    "java.vendor.url" : "http://java.oracle.com/",
+    "java.library.path" : "/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib",
+    "library.jansi.path" : "/root/.gradle/native/jansi/1.14/linux64",
+    "buildInfo.env.XDG_VTNR" : "2",
+    "buildInfo.env.QT_ACCESSIBILITY" : "1",
+    "java.vm.vendor" : "Oracle Corporation",
+    "java.runtime.name" : "OpenJDK Runtime Environment",
+    "java.class.path" : "/opt/gradle-3.3/lib/gradle-launcher-3.3.jar",
+    "sun.java.command" : "org.gradle.launcher.daemon.bootstrap.GradleDaemon 3.3",
+    "buildInfo.env.SHLVL" : "2",
+    "org.gradle.appname" : "gradle",
+    "buildInfo.env.QT_IM_MODULE" : "ibus",
+    "java.vm.specification.name" : "Java Virtual Machine Specification",
+    "buildInfo.env.UPSTART_SESSION" : "unix:abstract=/com/ubuntu/upstart-session/1000/1683",
+    "java.vm.specification.version" : "1.8",
+    "buildInfo.env.OLDPWD" : "/opt/gradle-3.3",
+    "sun.cpu.endian" : "little",
+    "sun.os.patch.level" : "unknown",
+    "buildInfo.env.SSH_AUTH_SOCK" : "/run/user/1000/keyring/ssh",
+    "buildInfo.env.GTK_MODULES" : "gail:atk-bridge",
+    "buildInfo.env.XDG_CONFIG_DIRS" : "/etc/xdg/xdg-gnome:/usr/share/upstart/xdg:/etc/xdg",
+    "java.io.tmpdir" : "/tmp",
+    "buildInfo.env.MAIL" : "/var/mail/root",
+    "java.vendor.url.bug" : "http://bugreport.sun.com/bugreport/",
+    "buildInfo.env.IM_CONFIG_PHASE" : "1",
+    "java.awt.graphicsenv" : "sun.awt.X11GraphicsEnvironment",
+    "os.arch" : "amd64",
+    "buildInfo.env.CLUTTER_IM_MODULE" : "xim",
+    "java.ext.dirs" : "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext",
+    "user.dir" : "/home/arun/Downloads/project-examples-master/gradle-examples/3/gradle-example-publish",
+    "buildInfo.env.DESKTOP_SESSION" : "gnome",
+    "line.separator" : "\n",
+    "java.vm.name" : "OpenJDK 64-Bit Server VM",
+    "buildInfo.env.XDG_CURRENT_DESKTOP" : "GNOME",
+    "buildInfo.env.XDG_SESSION_DESKTOP" : "gnome",
+    "buildInfo.env.DISPLAY" : ":1",
+    "file.encoding" : "UTF-8",
+    "buildInfo.env.LANG" : "en_IN",
+    "buildInfo.env.LANGUAGE" : "en_IN:en",
+    "buildInfo.env.WINDOWID" : "37749307",
+    "java.specification.version" : "1.8",
+    "buildInfo.env.GTK_IM_MODULE" : "ibus",
+    "buildInfo.env.DEFAULTS_PATH" : "/usr/share/gconf/gnome.default.path"
+  },
+  "version" : "1.0.1",
+  "name" : "gradle-example-publish",
+  "number" : "1485797132335",
+  "type" : "GRADLE",
+  "buildAgent" : {
+    "name" : "Gradle",
+    "version" : "3.3"
+  },
+  "agent" : {
+    "name" : "Gradle",
+    "version" : "3.3"
+  },
+  "started" : "2017-01-30T22:55:31.468+0530",
+  "durationMillis" : 71679,
+  "principal" : "root",
+  "artifactoryPrincipal" : "admin",
+  "artifactoryPluginVersion" : "Unknown",
+  "licenseControl" : {
+    "runChecks" : false,
+    "includePublishedArtifacts" : false,
+    "autoDiscover" : false,
+    "scopesList" : "",
+    "licenseViolationsRecipientsList" : ""
+  },
+  "buildRetention" : {
+    "count" : -1,
+    "deleteBuildArtifacts" : true,
+    "buildNumbersNotToBeDiscarded" : [ ]
+  },
+  "modules" : [ {
+    "id" : "org.jfrog.test.gradle.publish:webservice:1.0-SNAPSHOT",
+    "artifacts" : [ {
+      "type" : "jar",
+      "sha1" : "c2c32dd694859f81bb81c1b7a9e8da91fc49abb0",
+      "md5" : "232be8f9c5f1818e91900a49396840fd",
+      "name" : "webservice-1.0-SNAPSHOT.jar"
+    }, {
+      "type" : "properties",
+      "sha1" : "cbae36a1e156cdf1cdb802e9803ca95446507373",
+      "md5" : "3f671140eec33497f6b24d2658b47056",
+      "name" : "webservice-1.0-SNAPSHOT.properties"
+    }, {
+      "type" : "pom",
+      "sha1" : "de67ad78b8adf41a44d847ad07c794027cdf09e2",
+      "md5" : "751b18ec512497343f6fa7c22d70fa30",
+      "name" : "webservice-1.0-SNAPSHOT.pom"
+    } ],
+    "excludedArtifacts" : [ ],
+    "dependencies" : [ {
+      "type" : "jar",
+      "sha1" : "ac2269aa5c5bb4371ab606cd4269aea5b8d35ffd",
+      "md5" : "bd52f1dd8b95af9d56336d02c638a366",
+      "id" : "org.jfrog.test.gradle.publish:shared:1.0-SNAPSHOT",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "f951934aa5ae5a88d7e6dfaa6d32307d834a88be",
+      "md5" : "7b9216b608d550787bdf43a63d88bf3b",
+      "id" : "commons-collections:commons-collections:3.2",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "0ad6ae511ca4608a18317fcb19850fd113bb2ae8",
+      "md5" : "b0bf5f906af5a936992514ed087f1fa2",
+      "id" : "commons-io:commons-io:1.2",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "16313e02a793435009f1e458fa4af5d879f6fb11",
+      "md5" : "237a8e845441bad2e535c57d985c8204",
+      "id" : "commons-lang:commons-lang:2.4",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "14dd208c9077c462b813ed41c21c57f6a8153694",
+      "md5" : "4cad3d21b85b369c8b00dfb84e270e02",
+      "id" : "org.apache.wicket:wicket:1.3.7",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "664ab46a0745da60067875128ba67e12dcf04742",
+      "md5" : "71650dcd57921255f365cd0c9fb13a11",
+      "id" : "org.jfrog.test.gradle.publish:api:1.0-SNAPSHOT",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "61fce919969d134a4fa2ba4fd5bf151ea63fce13",
+      "md5" : "2d673736b993aa112fda47b9061e4e48",
+      "id" : "org.slf4j:slf4j-api:1.4.2",
+      "scopes" : [ "compileClasspath" ]
+    } ]
+  }, {
+    "id" : "org.jfrog.test.gradle.publish:api:1.0-SNAPSHOT",
+    "artifacts" : [ {
+      "type" : "properties",
+      "sha1" : "cbae36a1e156cdf1cdb802e9803ca95446507373",
+      "md5" : "3f671140eec33497f6b24d2658b47056",
+      "name" : "api-1.0-SNAPSHOT.properties"
+    }, {
+      "type" : "pom",
+      "sha1" : "76d4ec38478831f57f912976357a367bb314fbc8",
+      "md5" : "32782fc1974483c76dfd4317be52e834",
+      "name" : "api-1.0-SNAPSHOT.pom"
+    }, {
+      "type" : "text-txt",
+      "sha1" : "30788efb365346a1bcabfa8b2041cd875fdad213",
+      "md5" : "eec6c62c171e3907c458b90ca58c6801",
+      "name" : "api-1.0-SNAPSHOT.txt"
+    }, {
+      "type" : "jar",
+      "sha1" : "664ab46a0745da60067875128ba67e12dcf04742",
+      "md5" : "71650dcd57921255f365cd0c9fb13a11",
+      "name" : "api-1.0-SNAPSHOT.jar"
+    }, {
+      "type" : "ivy",
+      "sha1" : "09ec1845d96abc444ddcd2aeabb47e77d9851bdd",
+      "md5" : "6068c5c26d35950b4c2dc8a4cab985b9",
+      "name" : "ivy-1.0-SNAPSHOT.xml"
+    } ],
+    "excludedArtifacts" : [ ],
+    "dependencies" : [ {
+      "type" : "jar",
+      "sha1" : "ac2269aa5c5bb4371ab606cd4269aea5b8d35ffd",
+      "md5" : "bd52f1dd8b95af9d56336d02c638a366",
+      "id" : "org.jfrog.test.gradle.publish:shared:1.0-SNAPSHOT",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "16313e02a793435009f1e458fa4af5d879f6fb11",
+      "md5" : "237a8e845441bad2e535c57d985c8204",
+      "id" : "commons-lang:commons-lang:2.4",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "14dd208c9077c462b813ed41c21c57f6a8153694",
+      "md5" : "4cad3d21b85b369c8b00dfb84e270e02",
+      "id" : "org.apache.wicket:wicket:1.3.7",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "0ad6ae511ca4608a18317fcb19850fd113bb2ae8",
+      "md5" : "b0bf5f906af5a936992514ed087f1fa2",
+      "id" : "commons-io:commons-io:1.2",
+      "scopes" : [ "compileClasspath" ]
+    }, {
+      "type" : "jar",
+      "sha1" : "61fce919969d134a4fa2ba4fd5bf151ea63fce13",
+      "md5" : "2d673736b993aa112fda47b9061e4e48",
+      "id" : "org.slf4j:slf4j-api:1.4.2",
+      "scopes" : [ "compileClasspath" ]
+    } ]
+  }, {
+    "id" : "org.jfrog.test.gradle.publish:shared:1.0-SNAPSHOT",
+    "artifacts" : [ {
+      "type" : "jar",
+      "sha1" : "ac2269aa5c5bb4371ab606cd4269aea5b8d35ffd",
+      "md5" : "bd52f1dd8b95af9d56336d02c638a366",
+      "name" : "shared-1.0-SNAPSHOT.jar"
+    }, {
+      "type" : "properties",
+      "sha1" : "cbae36a1e156cdf1cdb802e9803ca95446507373",
+      "md5" : "3f671140eec33497f6b24d2658b47056",
+      "name" : "shared-1.0-SNAPSHOT.properties"
+    }, {
+      "type" : "pom",
+      "sha1" : "656a67db406a4df3d56d48cc65d2aed098666d0a",
+      "md5" : "f6ed24551fc7d66b57128f722f554d9f",
+      "name" : "shared-1.0-SNAPSHOT.pom"
+    } ],
+    "excludedArtifacts" : [ ],
+    "dependencies" : [ ]
+  } ],
+  "governance" : {
+    "blackDuckProperties" : {
+      "runChecks" : false,
+      "includePublishedArtifacts" : false,
+      "autoCreateMissingComponentRequests" : false,
+      "autoDiscardStaleComponentRequests" : false
+    }
+  }
+}
